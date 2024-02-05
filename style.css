@@ -16,7 +16,16 @@ body{
 	border-radius: 10px;
 	}
 	
-	
+ 
+#logo {
+    width: 100px; 
+    height: auto; 
+    margin-right: 220px; 
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+ 	
 
 	
 nav{
